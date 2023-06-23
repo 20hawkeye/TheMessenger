@@ -12,7 +12,7 @@ Technical specs:
 * simple server / client / sql / smtp
 * regional server support
 * openssl stand alone encryption ( ... )
-* hashed and rehashed passwords
+* hashed and rehashed passwords standard
 
 About the code:
 
