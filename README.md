@@ -13,4 +13,6 @@ Technical specs:
 * regional server support
 * openssl stand alone encryption ( ... )
 
-    
+About the code:
+
+* ///
