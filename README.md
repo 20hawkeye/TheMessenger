@@ -9,6 +9,8 @@ Built on the very appealing "QT Creator" IDE, to be released under the "GNU GENE
 
 Technical specs:
 
+* simple server / client / sql
 * regional server support
 * openssl stand alone encryption ( ... )
+
     
