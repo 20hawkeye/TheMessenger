@@ -1,4 +1,4 @@
-# TheMessenger
+# The Messenger
 
 An open source messenger implementation; tribut to "the many messenger friend lists"... 
 used as main inspiration for the following program.
