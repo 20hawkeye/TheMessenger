@@ -16,3 +16,4 @@ Technical specs:
 About the code:
 
 * at working methodes stage
+* one developer for now
