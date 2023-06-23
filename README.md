@@ -8,6 +8,7 @@ Built on the very appealing "QT Creator" IDE, to be released under the "GNU GENE
 * Soon to be at beta testing release stage...
 
 Technical specs:
-    * regional server support
-    * openssl stand alone encryption (?)
+
+* regional server support
+* openssl stand alone encryption (?)
     
