@@ -21,7 +21,7 @@ About the code:
 
 
 There are some parts that rely on a series of scripts... these are included into the distribution, along with an sql db template.
-The scripts are basicly related to encryption with openssl and send mail via gmail account.
+The scripts are related to encryption with openssl and send mail via gmail account.
 For the Gmail sendmail we need to have php pear mail installed and an application password generated withing gmail settings.
 
 long-short
