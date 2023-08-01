@@ -16,7 +16,12 @@ Technical specs:
 
 About the code:
 
-* at working methodes stage
-* one developer for now
+* at working methodes stages
+* one developer for now _ feel free to apply for a collaboration
 
- *** Known Issues:
+
+There are some parts that rely on a series of scripts... these are included into the distribution, along with an sql db template.
+The scripts are basicly related to encryption with openssl and send mail via gmail account.
+For the Gmail sendmail we need to have php pear mail installed and an application password generated withing gmail settings.
+
+long-short
