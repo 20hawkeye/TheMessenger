@@ -27,7 +27,7 @@ For the Gmail sendmail we need to have php pear mail installed and an applicatio
 Working functions:
 
 * Register license ~ encryption key ! ...
-* Register user
+* Register User
 * Reset Password
 * Activate Account
 * Log in
