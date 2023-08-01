@@ -24,4 +24,12 @@ There are some parts that rely on a series of scripts... these are included into
 The scripts are related to encryption with openssl and send mail via gmail account.
 For the Gmail sendmail we need to have php pear mail installed and an application password generated withing gmail settings.
 
-long-short
+Working functions:
+
+* Register license ~ encryption key ! ...
+* Register user
+* Reset Password
+* Activate Account
+* Log in
+* Sign Out
+* Send Message
