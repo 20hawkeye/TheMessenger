@@ -33,3 +33,5 @@ Working functions:
 * Log in
 * Sign Out
 * Send Message
+* Send Friend Request
+* Accept / Decline Friend Request
