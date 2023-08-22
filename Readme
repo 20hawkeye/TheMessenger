@@ -10,18 +10,18 @@ Technical specs:
 
     simple server / client / sql / php smtp
     regional server support intended
-    openssl stand alone encryption ( ... ) // updated to standard ssl socket
-    hashed and rehashed passwords standard // ...
+    openssl stand alone encryption ( ... ) *** updated to standard ssl socket
+    hashed and rehashed passwords standard *** ...
 
 About the code:
 
-    at working methodes stages // a bit better now but still...
+    at working methodes stages *** a bit better now ...
     one developer for now _ feel free to apply for a collaboration // join the project: rgb.trust@gmail.com
 
 There are some parts that rely on a series of scripts... these are included into the distribution, along with an sql db template. The scripts are related to encryption with openssl and send mail via gmail account. For the Gmail sendmail we need to have php pear mail installed and an application password generated withing gmail settings.
 
-// not any more, but still sql db and php sendmail included
-// server requires <php pear mail>
+*** not any more, but still <sql> db and <php> sendmail included
+*** server requires <php pear mail>
 
 
 *** Join the project ***
